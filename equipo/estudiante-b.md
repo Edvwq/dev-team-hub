@@ -6,3 +6,5 @@
 ## Contribucion al Proyecto: Modulo de perfil y herramientas
 
 > "El codigo limpio es el mejor regalo para tu equipo."
+
+## GitHub: @Edvwq
